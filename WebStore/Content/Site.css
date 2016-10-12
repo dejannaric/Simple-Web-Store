@@ -1,0 +1,42 @@
+﻿
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.row {
+    margin: 0px;
+}
+.categoryMenu {
+    height: 100vh;
+    padding-top: 100px;
+}
+.product {
+    border: 2px solid black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.product p {
+    padding-left: 15px;
+    padding-top: 5px;
+}
+.productList {
+    padding-top: 45px;
+}
+.cena {
+    text-align: right;
+    padding-right: 30px;
+
+}
+.search {
+    float: right;
+}
+.productLabel {
+    min-width: 120px;
+}
+.meniCat {
+    cursor: pointer;
+}
+.selectDiv {
+    padding-top: 3px;
+}
